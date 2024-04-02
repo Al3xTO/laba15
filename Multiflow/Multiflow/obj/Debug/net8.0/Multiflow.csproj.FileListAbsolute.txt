@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Multiflow\Multiflow\bin\Debug\net8.0\Multiflow.exe
+C:\Users\Admin\Documents\Multiflow\Multiflow\bin\Debug\net8.0\Multiflow.deps.json
+C:\Users\Admin\Documents\Multiflow\Multiflow\bin\Debug\net8.0\Multiflow.runtimeconfig.json
+C:\Users\Admin\Documents\Multiflow\Multiflow\bin\Debug\net8.0\Multiflow.dll
+C:\Users\Admin\Documents\Multiflow\Multiflow\bin\Debug\net8.0\Multiflow.pdb
+C:\Users\Admin\Documents\Multiflow\Multiflow\obj\Debug\net8.0\Multiflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Multiflow\Multiflow\obj\Debug\net8.0\Multiflow.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Multiflow\Multiflow\obj\Debug\net8.0\Multiflow.AssemblyInfo.cs
+C:\Users\Admin\Documents\Multiflow\Multiflow\obj\Debug\net8.0\Multiflow.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Multiflow\Multiflow\obj\Debug\net8.0\Multiflow.dll
+C:\Users\Admin\Documents\Multiflow\Multiflow\obj\Debug\net8.0\refint\Multiflow.dll
+C:\Users\Admin\Documents\Multiflow\Multiflow\obj\Debug\net8.0\Multiflow.pdb
+C:\Users\Admin\Documents\Multiflow\Multiflow\obj\Debug\net8.0\Multiflow.genruntimeconfig.cache
+C:\Users\Admin\Documents\Multiflow\Multiflow\obj\Debug\net8.0\ref\Multiflow.dll
